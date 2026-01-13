@@ -55,6 +55,7 @@ public class BitwiseOperators {
 		//pushing all but the last bit out. 
 		//This leaves you with the binary pattern 
 		//00000000 00000000 00000000 00000001
+		//updated
 			
 	}
 
