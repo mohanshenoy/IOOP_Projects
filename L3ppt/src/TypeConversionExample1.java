@@ -5,5 +5,6 @@ public class TypeConversionExample1 {
 		int i1 = 258;
 		b1 = (byte)i1;
 		System.out.println(b1);
+
 	}
 }
