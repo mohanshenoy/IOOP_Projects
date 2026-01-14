@@ -49,7 +49,12 @@ public class ConversionExample {
 		//long ltemp = 9223372036854775807;
 		//long ltemp = 9223372036854775807L;
 		
-	
+		int  n=386;
+		byte b;
+
+		b = (byte)n;
+		System.out.println(b);
+
 
 
 
